@@ -1,0 +1,11 @@
+.header {
+  color: grey;
+  background-color: rgb(177, 255, 74);
+  font-size: 40px;
+}
+
+.inline-header {
+  color: blueviolet;
+  background-color: rgb(0, 255, 242);
+  font-size: 40px;
+}
